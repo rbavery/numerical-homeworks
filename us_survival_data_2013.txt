@@ -1,0 +1,25 @@
+,,2013,2013,2012,2012,2000,2000,1990,1990
+Indicator,Age Group,Female,Male,Female,Male,Female,Male,Female,Male
+lx - number of people left alive at age x,<1 year,100000,100000,100000,100000,100000,100000,100000,100000
+lx - number of people left alive at age x,1-4 years,99470,99360,99450,99340,99360,99230,99170,98960
+lx - number of people left alive at age x,5-9 years,99380.1,99240.2,99360.2,99220.3,99240,99070,99000,98750
+lx - number of people left alive at age x,10-14 years,99327,99176.7,99306.1,99155.5,99170.6,98983,98908.3,98623.7
+lx - number of people left alive at age x,15-19  years,99265.7,99090.2,99244,99067.6,99090.9,98863,98808.6,98467.8
+lx - number of people left alive at age x,20-24 years,99110.3,98710.9,99086.5,98681,98896.2,98402.5,98579.7,97842.8
+lx - number of people left alive at age x,25-29 years,98893.7,98071.5,98866.2,98027.5,98663.5,97725.4,98326.9,97032.2
+lx - number of people left alive at age x,30-34 years,98633.7,97449.5,98601.7,97391.4,98403.2,97098,98013.4,96138.7
+lx - number of people left alive at age x,35-39 years,98301.7,96790.6,98264.7,96718.4,98041.7,96382.1,97601,95070.3
+lx - number of people left alive at age x,40-44 years,97819.3,95985.6,97777.5,95900.7,97488.3,95396.6,97042.3,93744.5
+lx - number of people left alive at age x,45-49 years,97045.7,94812,96996.3,94709.6,96646.6,93947.5,96250,92143.9
+lx - number of people left alive at age x,50-54 years,95849,92989.1,95785.8,92860.4,95436,91826.7,94968.8,89906.2
+lx - number of people left alive at age x,55-59 years,94133.6,90253.2,94049.6,90078.8,93632.4,88921.4,92933.2,86563
+lx - number of people left alive at age x,60-64 years,91741.6,86426,91636.7,86195.7,90824.9,84619,89815.6,81474.1
+lx - number of people left alive at age x,65-69 years,88139.5,81172.3,88004.1,80883.8,86501,78345.4,85131,74054
+lx - number of people left alive at age x,70-74 years,82796,73844.3,82617.6,73497.9,80170.5,69581.5,78564.1,64178.1
+lx - number of people left alive at age x,75-79 years,74979.1,63840.4,74738.4,63445.7,71276.6,57825.1,69414.4,51556.9
+lx - number of people left alive at age x,80-84 years,63921.8,50804.1,63612.8,50392.1,59180,43711.4,57365.5,37303.9
+lx - number of people left alive at age x,85-89 years,48627.7,34710,48285.2,34351.7,42838.7,27360.4,41525.5,22308.9
+lx - number of people left alive at age x,90-94 years,29553.3,17933.9,29242.3,17705.3,24376.2,12679.6,24040.3,10201.1
+lx - number of people left alive at age x,95-99 years,12055,5763.6,11860.5,5672.1,9271.8,3773.4,9712,3173.4
+lx - number of people left alive at age x,100+ years,2945.8,1092.4,2877.9,1070.9,2125.8,678.2,2519.5,646.7
+lx - number of people left alive at age x,100+ years,0,0,0,0,0,0,0,0

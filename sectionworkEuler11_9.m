@@ -41,3 +41,4 @@ plot(t, yf, '-ob')
 hold on
 plot(t, yb, '-xr')
 plot(t, asolvedf3, '-g')
+legend('forward', 'backward', 'solved')
